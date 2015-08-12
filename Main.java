@@ -7,8 +7,6 @@ import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.stage.*;
 
-immm jusst checking
-
 public class Main extends Application
 {
     private LeftLayout leftLayout;
